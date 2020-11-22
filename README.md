@@ -18,6 +18,13 @@
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"
      alt=""
      style="float: left; margin-right: 10px;" />
+     
+### What am I currently working on
+Currently I am attending a Full Stack bootcamp and building out some side projects with the new skills I have gained! 
+
+[![Bryce's Github Stats](https://github-readme-stats.vercel.app/api?username=bdrawe)](https://github.com/bdrawe/github-readme-stats)
+
+
 
   
 
