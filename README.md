@@ -18,6 +18,12 @@
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"
      alt=""
      style="float: left; margin-right: 10px;" />
+<img src="https://img.shields.io/badge/react%20-%230769AD.svg?&style=for-the-badge&logo=react&logoColor=orange"
+     alt=""
+     style="float: left; margin-right: 10px;" />
+<img src="https://img.shields.io/badge/graphql%20-%230769AD.svg?&style=for-the-badge&logo=graphql&logoColor=purple"
+     alt=""
+     style="float: left; margin-right: 10px;" />
      
 ### What am I currently working on
 Currently building out side projects and looking for development opportunities where I can add value! 
