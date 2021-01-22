@@ -20,7 +20,7 @@
      style="float: left; margin-right: 10px;" />
      
 ### What am I currently working on
-Currently I am attending a Full Stack bootcamp and building out some side projects with the new skills I have gained! 
+Currently building out side projects and looking for development opportunities where I can add value! 
 
 
 
