@@ -26,7 +26,7 @@
      style="float: left; margin-right: 10px;" />
      
 ### What am I currently working on
-Currently building out side projects and looking for development opportunities where I can add value! 
+Looking for opportunities and participating in the #100DaysofCode Challenge! Let's go!! 
 
 
 
