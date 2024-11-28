@@ -25,12 +25,7 @@
      alt=""
      style="float: left; margin-right: 10px;" />
      
-### What am I currently working on
-Looking for opportunities and participating in the #100DaysofCode Challenge! Let's go!! 
 
-
-
-[![Bryce's Github Stats](https://github-readme-stats.vercel.app/api?username=bdrawe)](https://github.com/bdrawe/github-readme-stats)
 
 
 
